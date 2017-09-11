@@ -1,0 +1,9 @@
+Building Vuera
+
+See doc/readme-qt.rst for instructions on building Vuera QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Vuera.
+
+See doc/build-*.txt for instructions on building vuerad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vuera.
